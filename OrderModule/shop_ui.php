@@ -48,9 +48,6 @@ include_once '../connect.php';
                 
                 ?>
             
-                    
-                
-            
         </div>
     </section>
 
